@@ -7,4 +7,5 @@ Please see the `notes` directory
 
 ## Student projects
 
-[Implementing the XX and ZZ gates in PennyLane (click for slides)](https://docs.google.com/presentation/d/1_KcW7TbrfUKDQM8H7_VtffsHbgNVnuLaePEHc78WU1U/edit?usp=sharing)
+<a href="https://docs.google.com/presentation/d/1_KcW7TbrfUKDQM8H7_VtffsHbgNVnuLaePEHc78WU1U/edit?usp=sharing" target="_blank">
+Implementing the XX and ZZ gates in PennyLane (click for slides)</a>
