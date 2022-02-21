@@ -4,8 +4,8 @@
 ## Preliminary Schedule
 * 4 March
 * 5 March
-* 6 March
-* (7 March)
+* 8 March
+* next to be announced
 
 
 
