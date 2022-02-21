@@ -1,4 +1,4 @@
-# Practical Quantum Computing
+# Practical Quantum Computing 2022 @ Unitbv
 ![unitbv logo](https://www.unitbv.ro/images/logo_ro-RO.png)
 
 ## Preliminary Schedule
