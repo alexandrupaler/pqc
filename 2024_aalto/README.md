@@ -18,10 +18,11 @@ The total number of achievable points: 100 points
 
 The minimum number to pass: 20 points
 
-Grade 	Points
-0 	0-19
-1 	20-30
-2 	31-40
-3 	41-50
-4 	51-75
-5 	76-100
+| Grade | Points |
+| ---   | ---    |
+| 0 	| 0-19   |
+| 1 	| 20-30  |
+| 2 	| 31-40  |
+| 3 	| 41-50  |
+| 4 	| 51-75  |
+| 5 	| 76-100 |
